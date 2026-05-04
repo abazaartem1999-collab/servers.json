@@ -2,27 +2,27 @@
     {
         "online": "20",
         "maxonline": "1000",
-        "color": "FF0000",
-        "x2": "true",
-        "key": "1424",
-        "name": "Kranin",
-        "firstname": "KRANIN",
-        "secondname": "",
-        "url": "samara.blackrussia.online",
-        "ip": "51.75.232.65",
-        "port": "1397"
-
-    },
-    {
-        "online": "12",
-        "maxonline": "1000",
-        "color": "FFFFFF",
+        "color": "FFA500",
         "x2": "true",
         "key": "1424",
         "name": "HARLEY",
         "firstname": "HARLEY",
         "secondname": "",
-        "url": "samara.blackrussia.online",
+        "url": "orange.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "3648"
+
+    },
+    {
+        "online": "12",
+        "maxonline": "1000",
+        "color": "FFFF00",
+        "x2": "true",
+        "key": "1424",
+        "name": "MOSCOW",
+        "firstname": "MOSCOW",
+        "secondname": "",
+        "url": "moscow.blackrussia.online",
         "ip": "188.127.241.74",
         "port": "5240"
 
