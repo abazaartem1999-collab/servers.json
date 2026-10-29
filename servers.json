@@ -1,28 +1,28 @@
 [
     {
-        "online": "20",
-        "maxonline": "1000",
+        "online": "2",
+        "maxonline": "500",
         "color": "FFA500",
         "x2": "true",
         "key": "1424",
-        "name": "HARLEY",
-        "firstname": "HARLEY",
+        "name": "STYLE",
+        "firstname": "STYLE",
         "secondname": "",
         "url": "orange.online",
         "ip": "188.127.241.74",
-        "port": "3648"
+        "port": "3478"
 
     },
     {
-        "online": "12",
+        "online": "0",
         "maxonline": "1000",
         "color": "FFFF00",
         "x2": "true",
         "key": "1424",
-        "name": "MOSCOW",
-        "firstname": "MOSCOW",
+        "name": "TEST",
+        "firstname": "TEST",
         "secondname": "",
-        "url": "moscow.online",
+        "url": "test.online",
         "ip": "188.127.241.74",
         "port": "4966"
 
