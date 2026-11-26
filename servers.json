@@ -1,30 +1,18 @@
 [
     {
-        "online": "2",
-        "maxonline": "500",
-        "color": "FFA500",
-        "x2": "true",
-        "key": "1424",
-        "name": "STYLE",
-        "firstname": "STYLE",
-        "secondname": "",
-        "url": "orange.online",
-        "ip": "188.127.241.74",
+        "logo": "moscow",
+        "id": "1",
+        "status": "", 
+        "online": "1101", 
+        "maxonline": "1300", 
+        "color": "FF0000", 
+        "x2": "false", 
+        "key": "1424", 
+        "name": "HYPER MOBILE", 
+        "firstname": "bist", 
+        "secondname": "", 
+        "url": "red.blackrussia.online", 
+        "ip": "188.127.241.74", 
         "port": "3478"
-
-    },
-    {
-        "online": "0",
-        "maxonline": "1000",
-        "color": "FFFF00",
-        "x2": "true",
-        "key": "1424",
-        "name": "TEST",
-        "firstname": "TEST",
-        "secondname": "",
-        "url": "test.online",
-        "ip": "188.127.241.74",
-        "port": "4966"
-
     }
 ]
